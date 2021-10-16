@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Awesome-Fox120
+- 👀 I’m interested in c# and unity
+- 💞️ I’m looking to collaborate on stuff
